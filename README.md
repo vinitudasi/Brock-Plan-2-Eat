@@ -1,4 +1,4 @@
 # BrockPlan2EatApp
 An android app.
 
-##First Commit of the app.
+An Android Application for displaying food options on campus at Brock University (UNOFFICIAL)
