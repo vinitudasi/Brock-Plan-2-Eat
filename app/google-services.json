@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056206702982",
+    "firebase_url": "https://brockp2e-places-default-rtdb.firebaseio.com",
+    "project_id": "brockp2e-places",
+    "storage_bucket": "brockp2e-places.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056206702982:android:bb649333d46745ab8a8407",
+        "android_client_info": {
+          "package_name": "com.example.foodplaceviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056206702982-5b0ub3qmcif7neteqr3saromrlqa88l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKIQWthgIvBsF_jOI8soZ25wUJUD7mZQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056206702982-5b0ub3qmcif7neteqr3saromrlqa88l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

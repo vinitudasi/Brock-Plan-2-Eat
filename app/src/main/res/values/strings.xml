@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Brock P2E</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="favorites">Favorites</string>
+    <string-array name="filters">
+        <item>Show All</item>
+        <item>Favorites</item>
+        <item>Market</item>
+        <item>Hungry Badger</item>
+        <item>Union Station</item>
+        <item>Library</item>
+        <item>Welch Hall</item>
+        <item>Schmon Tower</item>
+    </string-array>
+</resources>
