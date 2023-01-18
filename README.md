@@ -1,4 +1,4 @@
-# BrockPlan2EatApp
+# Brock Plan 2 Eat
 
 ## Description
 
