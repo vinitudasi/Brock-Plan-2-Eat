@@ -19,7 +19,7 @@ This app is in no way endorsed or sanctioned by the university.
 - [BrainShop API](https://brainshop.ai/)
 - [Firebase Realtime Database](https://firebase.google.com/docs/database)
 
-## :raising_hand_man: Contributors
+## 👥 Contributors
 |Name|
 |---|
 | [Ibrahim Hashmi](https://github.com/ibhashmi) |
