@@ -2,7 +2,9 @@
 
 ## Description
 
-An Android Application for displaying food options on campus at Brock University (UNOFFICIAL).
+An Android Application for displaying available restaurants on campus at Brock University (UNOFFICIAL). 
+
+Built using Android Studio and Java.
 
 This app is in no way endorsed or sanctioned by the university.
 
@@ -12,4 +14,8 @@ This app is in no way endorsed or sanctioned by the university.
 - Location-based filters (specific buildings on campus)
 - Interactive chatbot
 - Restaurant tags
+
+## Tools Used
+- [BrainShop API](https://brainshop.ai/)
+- [Firebase Realtime Database](https://firebase.google.com/docs/database)
 
