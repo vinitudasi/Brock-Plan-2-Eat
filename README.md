@@ -26,6 +26,6 @@ This app is in no way endorsed or sanctioned by the university.
 | [Julian Ellis Geronimo](https://github.com/Julellisg) |
 | [Vinit Udasi](https://github.com/vinitudasi) |
 
-
+## :film_strip: Demo
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72248273/213096595-e12d99a3-9f3f-40c0-8d8b-c1e656e9e5ba.gif)
 
