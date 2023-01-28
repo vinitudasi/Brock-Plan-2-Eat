@@ -19,11 +19,13 @@ This app is in no way endorsed or sanctioned by the university.
 - [BrainShop API](https://brainshop.ai/)
 - [Firebase Realtime Database](https://firebase.google.com/docs/database)
 
-## :raising_hand_man: Contributors
+## 👥 Contributors
 |Name|
 |---|
 | [Ibrahim Hashmi](https://github.com/ibhashmi) |
 | [Julian Ellis Geronimo](https://github.com/Julellisg) |
 | [Vinit Udasi](https://github.com/vinitudasi) |
+
+## :film_strip: Demo
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/72248273/213096595-e12d99a3-9f3f-40c0-8d8b-c1e656e9e5ba.gif)
 
