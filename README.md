@@ -2,18 +2,36 @@
 
 ## :vibration_mode: Description
 
-An Android Application for displaying available restaurants on campus at Brock University (UNOFFICIAL). 
+An Android Application for displaying available food and/or drink establishments on Brock University campus.
+Built using Java and Android Studio.
 
-Built using Android Studio and Java.
-
-This app is in no way endorsed or sanctioned by the university.
+**This app is in no way endorsed or sanctioned by the university.**
 
 ## :camera_flash: Features
-- User login and registration
-- Customizable list of favorite restaurants
-- Location-based filters (specific buildings on campus)
-- Interactive chatbot
-- Restaurant tags
+####  User Login and Registration
+<p align="center">
+    <img src="src/signin.png" alt="" width="250">
+    <img src="src/register.png" alt="" width="250">
+</p>
+
+<!-- TODO: #### Customizable list of favorite restaurants -->
+#### Location-based filters
+- Each restaurant is labeled with a general location within campus.
+- The location-based filter narrows down the list of establishments that are available.
+<p align="center">
+    <img src="src/sort.png" alt="" width="250">
+    <img src="src/library.png" alt="" width="250">
+</p>
+
+<!-- TODO: #### Interactive chatbot -->
+
+#### Restaurant Tags and Embedded Links
+- Each establishment that Brock University features has embedded links that direct to the official website.
+- Institutional food establishments may not have any websites, and must be viewed in person. 
+<p align="center">
+    <img src="src/generalbrock.png" alt="" width="250">
+    <img src="src/webbrowser.png" alt="" width="250">
+</p>
 
 ## :hammer_and_pick: Tools Used
 - [BrainShop API](https://brainshop.ai/)
@@ -27,5 +45,6 @@ This app is in no way endorsed or sanctioned by the university.
 | [Vinit Udasi](https://github.com/vinitudasi) |
 
 ## :film_strip: Demo
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/72248273/213096595-e12d99a3-9f3f-40c0-8d8b-c1e656e9e5ba.gif)
-
+<p align="center">
+    <img src="src/demonstration.gif" alt="Demonstration GIF" width="300">
+</p>
